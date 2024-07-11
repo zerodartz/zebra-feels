@@ -109,7 +109,7 @@ impl Tracing {
             }
 
             eprintln!(
-                "Thank you for running a {} zebrad {} node!",
+                "Thank you for running a {} zebrad {} node! Feels zebra man!",
                 network.lowercase_name(),
                 build_version()
             );
